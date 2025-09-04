@@ -154,7 +154,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## About the Author
 
-**Ryan Parker**
+**Robert Parker**
 GitHub: [@rparker122](https://github.com/rparker122)
 College Analysis Dashboard: [Live Demo](https://rparker-collegeanalysis.vercel.app)
 
